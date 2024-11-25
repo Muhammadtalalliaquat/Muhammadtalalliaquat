@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talal Liaquat</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="300" src="https://agencypartner.com/wp-content/uploads/2022/05/91382-web-development.gif">
+<img align="right" alt="coding" width="400" src="https://agencypartner.com/wp-content/uploads/2022/05/91382-web-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtalalliaquat&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadtalalliaquat" /> </p>
 
