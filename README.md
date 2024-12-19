@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtalalliaquat&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadtalalliaquat" /> </p>
 
-- 🌱 I’m currently learning **Back-end develoment**
+- 🌱 I’m currently learning **Back-end development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
