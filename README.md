@@ -1,4 +1,4 @@
-![logo](https://postimg.cc/qhv8Cj5m)
+![logo](https://raw.githubusercontent.com/Muhammadtalalliaquat/Muhammadtalalliaquat/main/Linked%20cover.png)
 
 ![logo](https://github.com/Muhammadtalalliaquat/Muhammadtalalliaquat/blob/main/Linked%20cover.png)
 
