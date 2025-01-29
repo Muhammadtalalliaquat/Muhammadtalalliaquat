@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/qhv8Cj5m/your-image.png" alt="logo" width="500" />
+![logo](https://postimg.cc/ygWvxxH5)
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Talal Liaquat</h1>
