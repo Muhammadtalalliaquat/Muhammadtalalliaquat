@@ -1,4 +1,5 @@
-![logo](https://raw.githubusercontent.com/Muhammadtalalliaquat/Muhammadtalalliaquat/main/Linked%20cover.png)
+![logo](https://i.postimg.cc/YOUR-IMAGE-FILENAME.png)
+
 
 
 
