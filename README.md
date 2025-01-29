@@ -1,4 +1,5 @@
-![logo](https://i.postimg.cc/qhv8Cj5m/your-image.png)
+<img src="https://i.postimg.cc/qhv8Cj5m/your-image.png" alt="logo" width="500" />
+
 
 <h1 align="center">Hi 👋, I'm Muhammad Talal Liaquat</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
