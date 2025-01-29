@@ -1,4 +1,4 @@
-![logo](https://i.postimg.cc/qhv8Cj5m/your-image.png)
+![logo](https://i.postimg.cc/qhv8Cj5m/main/Linked%20cover.png)
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Talal Liaquat</h1>
