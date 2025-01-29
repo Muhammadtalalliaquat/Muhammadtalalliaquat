@@ -1,8 +1,9 @@
 ![logo](https://github.com/Muhammadtalalliaquat/Muhammadtalalliaquat/blob/main/Linked%20cover.png)
+![logo](https://www.imghippo.com/i/Ge8892dw.png)
+
 <h1 align="center">Hi 👋, I'm Muhammad Talal Liaquat</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<!-- <img align="right" alt="coding" width="400" src="https://static.joonsite.com/storage/346/media/2211251758147177.gif"> -->
-<img align="right" alt="coding" width="400" src="https://www.imghippo.com/i/Ge8892dw.png">
+<img align="right" alt="coding" width="400" src="https://static.joonsite.com/storage/346/media/2211251758147177.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtalalliaquat&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadtalalliaquat" /> </p>
