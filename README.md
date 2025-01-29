@@ -1,6 +1,4 @@
-![logo](https://i.postimg.cc/qhv8Cj5m/your-image.png width="500")
-
-![logo](https://github.com/Muhammadtalalliaquat/Muhammadtalalliaquat/blob/main/Linked%20cover.png)
+![logo](https://i.postimg.cc/qhv8Cj5m/your-image.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Talal Liaquat</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
