@@ -41,15 +41,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadtalalliaquat&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadtalalliaquat&show_icons=true&locale=en&layout=compact" alt="muhammadtalalliaquat" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadtalalliaquat&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadtalalliaquat&show_icons=true&locale=en" alt="muhammadtalalliaquat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtalalliaquat&" alt="muhammadtalalliaquat" /></p>
+
 
 
 
