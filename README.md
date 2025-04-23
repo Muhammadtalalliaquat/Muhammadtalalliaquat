@@ -2,7 +2,7 @@
 <h3 align="center">🚀 MERN Stack Developer | Passionate about clean, scalable, and modern web applications</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f9QXIyud9UG93bvcbP/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/kH7IqzckZkWJK1pXg1/giphy.gif" width="400" alt="Coding GIF" />
 </p>
 
 
