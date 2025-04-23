@@ -10,46 +10,11 @@
 
 ## 🛠️ Skills
 
-### 💡 Frontend
-- React.js, Next.js
-- Tailwind CSS, Bootstrap
-- HTML5, CSS3, JavaScript (ES6+)
+### 🚀 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=_
 
-### 🔧 Backend
-- Node.js, Express.js
-- MongoDB (Mongoose), Firebase
-
-### 🧰 Tools & Platforms
-- Git, GitHub, Postman
-- Vercel, Netlify, Firebase Hosting
-- Figma, VS Code, Chrome DevTools
-
----
-
-## 📊 GitHub Stats
-
-![Talal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-## 🔍 Currently Working On
-
-- 🛒 E-commerce platform with sale-discount logic
-- 🔐 Role-based routing & authentication
-- 📦 Order management system using Firebase & MongoDB
-
----
-
-## 📬 Connect With Me
-
-- 📧 Email: youremail@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-
----
-
-> **"Strive for clean code. Simplicity is the soul of efficiency."**
 
 
 
