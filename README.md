@@ -2,11 +2,7 @@
 <h3 align="center">🚀 MERN Stack Developer | Passionate about clean, scalable, and modern web applications</h3>
 
 <p align="center">
-  <img src="https://static.joonsite.com/storage/346/media/2211251758147177.gif" width="400" alt="Coding GIF" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadtalalliaquat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://static.joonsite.com/storage/346/media/2211251758147177.gif" width="350" alt="Coding GIF" />
 </p>
 
 <p align="left">
