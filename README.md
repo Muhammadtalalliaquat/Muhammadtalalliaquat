@@ -1,25 +1,46 @@
+# 👋 Hi, I'm Talal
 
-<h1 align="center">Hi 👋, I'm Muhammad Talal Liaquat</h1>
-<h3 align="center">A passionate Web developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://static.joonsite.com/storage/346/media/2211251758147177.gif">
+**MERN Stack Developer | Passionate about building clean, scalable, and responsive web applications**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtalalliaquat&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadtalalliaquat" /> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-muhammadtalalliaquats-projects.vercel.app/](https://portfolio-muhammadtalalliaquats-projects.vercel.app/)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/m-talalliaquat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-talal-428699255/" height="30" width="40" /></a>
-</p>
+## 🔧 Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- **Frontend**: React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
+- **Backend**: Node.js, Express.js, MongoDB, Firebase
+- **Tools & Platforms**: Git, GitHub, Vercel, Netlify, Postman, Figma, VS Code
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadtalalliaquat&show_icons=true&locale=en&layout=compact" alt="muhammadtalalliaquat" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadtalalliaquat&show_icons=true&locale=en" alt="muhammadtalalliaquat" /></p>
+## 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtalalliaquat&" alt="muhammadtalalliaquat" /></p>
+- 🎓 Trained at Saylani Mass IT Training Institute in Full Stack Web Development
+- 🌱 Currently working on an e-commerce platform with discount-based order flows
+- 💼 Open to freelance and full-time opportunities
+
+---
+
+## 📈 GitHub Stats
+
+![Talal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
+
+---
+
+## 📫 Let's Connect
+
+- Email: youremail@example.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
 
 
 
