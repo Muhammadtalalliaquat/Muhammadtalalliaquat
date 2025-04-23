@@ -50,6 +50,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammadtalalliaquat&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Muhammadtalalliaquat&theme=radical" alt="GitHub Streak" />
 </p>
 
