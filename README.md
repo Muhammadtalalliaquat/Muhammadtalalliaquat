@@ -1,21 +1,26 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talal Liaquat</h1>
-<h3 align="center">🚀 MERN Stack Developer | Passionate about clean, scalable, and modern web applications</h3>
+<h3 align="center">🚀 MERN Stack Developer | Crafting Clean, Scalable, and Modern Web Applications</h3>
 
-<img align="right" alt="coding" width="400" src="https://static.joonsite.com/storage/346/media/2211251758147177.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muhammadtalalliaquat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://static.joonsite.com/storage/346/media/2211251758147177.gif" width="400" alt="Coding Animation" />
 </p>
 
-- 🔗 Portfolio: [Visit My Work](https://portfolio-muhammadtalalliaquats-projects.vercel.app/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadtalalliaquat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+### 🔗 Portfolio
+📁 [Visit My Portfolio](https://portfolio-muhammadtalalliaquats-projects.vercel.app/)
 
 ---
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/m-talalliaquat/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+<p>
+  <a href="https://www.linkedin.com/in/m-talalliaquat/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
 </p>
 
@@ -23,11 +28,11 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -43,11 +48,17 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadtalalliaquat&show_icons=true&locale=en&layout=compact" alt="muhammadtalalliaquat" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadtalalliaquat&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadtalalliaquat&show_icons=true&locale=en" alt="muhammadtalalliaquat" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadtalalliaquat&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtalalliaquat&" alt="muhammadtalalliaquat" /></p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtalalliaquat" alt="GitHub Streak" />
+</p>
 
 
 
