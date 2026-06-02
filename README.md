@@ -45,6 +45,8 @@ intuitive user experiences, and scalable architectures.
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 ### Backend
 
@@ -55,34 +57,12 @@ intuitive user experiences, and scalable architectures.
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 💼 Featured Projects
-
-### 🛒 E-Commerce Platform
-- Full-stack MERN application
-- Product management & order processing
-- Admin dashboard
-- Secure authentication
-- Responsive design
-
-### 📝 Blogging Platform
-- Role-based authentication
-- Post creation and management
-- Comments system
-- Firebase integration
-
-### 📄 AI PDF Studio
-- Image to PDF conversion
-- PDF editing capabilities
-- Download in portrait & landscape formats
-- Modern user-friendly interface
 
 ---
 
@@ -104,7 +84,7 @@ intuitive user experiences, and scalable architectures.
 
 ## 📫 Contact Me
 
-📧 Email: your-email@example.com
+📧 Email: muhammadtalalliaquat@gmail.com
 
 🌐 Portfolio:
 https://portfolio-muhammadtalalliaquats-projects.vercel.app/
