@@ -1,55 +1,150 @@
-<h1 align="center">Hi 👋, I'm Muhammad Talal Liaquat</h1>
-<h3 align="center">🚀 MERN Stack Developer | Passionate about clean, scalable, and modern web applications</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://static.joonsite.com/storage/346/media/2211251758147177.gif">
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Talal%20Liaquat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muhammadtalalliaquat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Apps+%F0%9F%8C%90;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
-- 🔗 Portfolio: [Visit My Work](https://portfolio-muhammadtalalliaquats-projects.vercel.app/)
+<br/>
 
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/m-talalliaquat/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=muhammadtalalliaquat&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/m-talalliaquat/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-muhammadtalalliaquats-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
+</div>
+
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-<!-- <p align="left">
+```typescript
+const talal = {
+  name:       "Muhammad Talal Liaquat",
+  role:       "MERN Stack Developer",
+  location:   "🌍 Pakistan",
+  portfolio:  "https://portfolio-muhammadtalalliaquats-projects.vercel.app/",
+
+  expertise:  ["Full-Stack Web Development", "REST APIs", "Mobile Apps"],
+  stack:      {
+    frontend:  ["React", "Next.js", "React Native", "TypeScript"],
+    backend:   ["Node.js", "Express.js"],
+    database:  ["MongoDB", "Firebase"],
+    ui:        ["Tailwind CSS", "Material UI", "Bootstrap"],
+    state:     ["Redux Toolkit"],
+    tools:     ["Git", "Postman", "VS Code"],
+  },
+
+  currentFocus:  "Building scalable, clean, and modern web applications",
+  funFact:       "I debug better with coffee ☕",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
+### 🎨 UI Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p> -->
+</p>
 
-<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Content_API-FF6F00?style=for-the-badge&logo=api&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Git_CLI-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadtalalliaquat&show_icons=true&locale=en&layout=compact" alt="muhammadtalalliaquat" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadtalalliaquat&show_icons=true&locale=en" alt="muhammadtalalliaquat" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadtalalliaquat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtalalliaquat&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="49%" alt="Streak Stats" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtalalliaquat&" alt="muhammadtalalliaquat" /></p>
+<br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadtalalliaquat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8" width="50%" alt="Top Languages" />
 
+</div>
 
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadtalalliaquat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadtalalliaquat&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/m-talalliaquat/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Talal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://portfolio-muhammadtalalliaquats-projects.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**⭐ If you like my work, consider giving my repos a star!**
+
+</div>
