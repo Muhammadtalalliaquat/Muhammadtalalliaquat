@@ -11,7 +11,7 @@ intuitive user experiences, and scalable architectures.
 </p>
 
 <p align="center">
-  <a href="https://portfolio-muhammadtalalliaquats-projects.vercel.app/">
+  <a href="https://portfolio-talalliaquat.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/m-talalliaquat/">
@@ -87,7 +87,7 @@ intuitive user experiences, and scalable architectures.
 📧 Email: muhammadtalalliaquat@gmail.com
 
 🌐 Portfolio:
-https://portfolio-muhammadtalalliaquats-projects.vercel.app/
+https://portfolio-talalliaquat.vercel.app/
 
 💼 LinkedIn:
 https://www.linkedin.com/in/m-talalliaquat/
